@@ -1,0 +1,3 @@
+Building a simple project, such as a converter, is one of the finest ways to start with the basic principles. All we have to do is take the needed currency as input and display the output. There should also be a possibility to customise the currencies via a menu or dropdown. Data for the conversion can be read from an external file or saved as a separate module.
+
+A converter should include some validation to verify that it only works on numerical data. Incorrect data should result in an error message
